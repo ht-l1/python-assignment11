@@ -1,0 +1,8 @@
+## Reflect on the differences between static and interactive visualizations.
+Static visualizatioin is view only and the rader can only see the message that the dashboard builder tries to convey. For example the dashboard builder would like the dashboard to have fixed parameters like a single specific country available and the viewer can only see that. On the other hand, interactive visualizatioin is more user friendly in a way that it allows the reader or the viewer to see any country they wanted  and it is also more versitile or flexibile to many use cases instead of being limited to a few. 
+
+## Write a short paragraph discussing the advantages of using dashboards for real-time data exploration.
+Dashboards are user friendly for real-time data exploration because it is usually connected with a live data source coming right out of database which is constantly fetching data via API from different systems. It allows stakeholders to always see the consistent format of visuals with noninterrupted experience. On top of it, once the dashboard is set in a format that is agreed upon by the user, it requires minimum maintenance for at least a period of time which helps with efficiency. 
+
+## Explain how interactive tools like Plotly and Dash can improve data communication in professional settings.
+Plotly and Dash improves data communication a professional settings because it makes the data easy to understand and see. Instead of looking at raw data where users have to put in efforts to decypher, they are now able to jump right into the visuals and use the filters to explore the data themselves. It removes the middle step of manually cleaning and reformatting the data every time they need it. 
